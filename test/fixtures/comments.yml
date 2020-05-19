@@ -1,0 +1,19 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  rails: MyString
+  generate: MyString
+  model: MyString
+  Comment: MyString
+  author_name: MyString
+  body: MyText
+  article: one
+
+two:
+  rails: MyString
+  generate: MyString
+  model: MyString
+  Comment: MyString
+  author_name: MyString
+  body: MyText
+  article: two
